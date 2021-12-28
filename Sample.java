@@ -7,17 +7,13 @@ public class Sample {
 	
 		generateMessage();
 	
-	
 	}
 
 
-	public static generateMessage() {
-	
+	public static void generateMessage() {	
+
 		Date date = new Date();
 
-		System.out.println(date);
-	
+		System.out.println(date);	
 	}
-
-
 }
