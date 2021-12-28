@@ -16,11 +16,11 @@ public class Simple {
 
 		Date date = new Date();
 
-		System.out.println(date);	
+		System.out.println(date);
 	}
 
 	public static void add(int a, int b) {	
 
-		System.out.println(a+b);
+		System.out.println("Addition : "+(a+b));
 	}
 }
