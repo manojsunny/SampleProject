@@ -22,5 +22,7 @@ public class Simple {
 	public static void add(int a, int b) {	
 
 		System.out.println("Addition : "+((a+b)));
+
+		System.out.println(a+b);
 	}
 }
