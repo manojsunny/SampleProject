@@ -24,5 +24,7 @@ public class Simple {
 		System.out.println("Addition : "+((a+b)));
 
 		int a=10;
+
+		int b=20;
 	}
 }
